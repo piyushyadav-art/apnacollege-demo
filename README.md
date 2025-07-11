@@ -1,3 +1,5 @@
 # apnacollege-demo
+
 This is my first repositories.
-Author - Piyuha yadav
+<br>
+Author - Piyuha (Apna college)
